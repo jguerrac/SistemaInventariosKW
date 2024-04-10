@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "61677456097",
+    "project_id": "sistema-de-inventarios-d21ac",
+    "storage_bucket": "sistema-de-inventarios-d21ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61677456097:android:efe6c2a28f0cdc507105a0",
+        "android_client_info": {
+          "package_name": "com.Kitchen_Warrior"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpXXPpndky3r5VaUtLtmopJrc_7tKSQFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
